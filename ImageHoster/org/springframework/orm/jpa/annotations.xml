@@ -1,0 +1,12 @@
+<root>
+    <item name='org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean void afterPropertiesSet()'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+    <item name='org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean void setPersistenceXmlLocation(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="pure" val="true"/>
+        </annotation>
+        <annotation name='org.jetbrains.annotations.Blocking'/>
+        <annotation name='org.jetbrains.annotations.NonBlocking'/>
+    </item>
+</root>
